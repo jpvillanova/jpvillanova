@@ -27,12 +27,13 @@
 <div align="center">
   <h3>📫 Onde me encontrar:</h3>
   
-  <a href="mailto:jp.villanova126@gmail.com" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 10px;">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jp.villanova126@gmail.com" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
   </a><!--
   --><a href="https://www.linkedin.com/in/joao-pedro-villanova-paes-barretto-390656346/" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
+  <p style="margin-top: 8px; font-size: 14px; color: #555;">📧 jp.villanova126@gmail.com</p>
 </div>
 
 ###
