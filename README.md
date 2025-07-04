@@ -1,10 +1,5 @@
-Readme do GitHub 
+<h2 align="left">Olá, eu sou o João Pedro. Desenvolvedor apaixonado por tecnologia</h2>
 
-<h2 align="left">👋 Olá! Sou João Pedro</h2>
-<p align="left">
-🔧 Apaixonado por tecnologia<br><br>
-Sinta-se à vontade para explorar meus repositórios e contribuir!
-</p>
 ###
 
 <div align="center">
